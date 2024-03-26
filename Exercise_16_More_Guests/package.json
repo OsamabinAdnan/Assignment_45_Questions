@@ -1,0 +1,12 @@
+{
+  "name": "exercise_16_more_guests",
+  "version": "1.0.0",
+  "description": "Exercise_16_More_Guests",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osama bin Adnan",
+  "license": "MIT"
+}
