@@ -1,0 +1,12 @@
+{
+  "name": "exercise_12_greetings",
+  "version": "1.0.0",
+  "description": "Exercise_12_Greetings",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osama bin Adnan",
+  "license": "MIT"
+}
