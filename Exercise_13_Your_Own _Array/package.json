@@ -1,0 +1,12 @@
+{
+  "name": "exercise_13_your_own-_array",
+  "version": "1.0.0",
+  "description": "Exercise_13_Your_Own _Array",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osama bin Adnan",
+  "license": "MIT"
+}
