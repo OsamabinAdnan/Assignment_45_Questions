@@ -1,0 +1,12 @@
+{
+  "name": "exercise_10_adding_comments",
+  "version": "1.0.0",
+  "description": "Exercise_10_Adding_Comments",
+  "main": "program1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osama bin Adnan",
+  "license": "MIT"
+}
