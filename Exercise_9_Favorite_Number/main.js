@@ -1,3 +1,4 @@
-var FavoriteNumber = 10;
-var Message = "My favorite number is";
-console.log(Message, FavoriteNumber);
+let favoriteNumber = 10;
+let Message = "My favorite number is";
+console.log(Message, favoriteNumber);
+export {};
