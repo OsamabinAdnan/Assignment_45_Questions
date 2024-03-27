@@ -1,0 +1,12 @@
+{
+  "name": "exercise_19_dinner_guests",
+  "version": "1.0.0",
+  "description": "Exercise_19_Dinner_Guests",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osama bin Adnan",
+  "license": "MIT"
+}
