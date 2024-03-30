@@ -1,5 +1,13 @@
 //let make any array
-let southCountries = ["Pakistan", "India", "Sri Lanka", "Bangladesh", "Nepal", "Bhutan", "Afghanistan"];
+let southCountries = [
+    "Pakistan",
+    "India",
+    "Sri Lanka",
+    "Bangladesh",
+    "Nepal",
+    "Bhutan",
+    "Afghanistan",
+];
 //Producing error! by accessing  invalid index of array
 console.log(southCountries[7]);
 //Error removed
