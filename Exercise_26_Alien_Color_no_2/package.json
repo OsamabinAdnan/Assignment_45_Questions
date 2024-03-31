@@ -1,0 +1,12 @@
+{
+  "name": "exercise_26_alien_color_no_2",
+  "version": "1.0.0",
+  "description": "Exercise_26_Alien_Color_no_2",
+  "main": "main.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osama bin Adnan",
+  "license": "MIT"
+}
