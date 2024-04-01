@@ -1,0 +1,12 @@
+{
+  "name": "exercise_30_hello_admin",
+  "version": "1.0.0",
+  "description": "Exercise_30_Hello_Admin",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osama bin Adnan",
+  "license": "MIT"
+}
