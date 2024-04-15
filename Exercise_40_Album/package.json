@@ -1,0 +1,12 @@
+{
+  "name": "exercise_40_album",
+  "version": "1.0.0",
+  "description": "Album",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osama bin Adnan",
+  "license": "MIT"
+}
